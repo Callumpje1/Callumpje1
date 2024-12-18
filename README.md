@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Callumpje1. I am a 26-year-old student Software Engineering at the Hogeschool van Amsterdam
+- 👋 Hi, I’m @Callumpje1. I am a 27-year-old student Software Engineering at the Hogeschool van Amsterdam. Take a look at [my website](https://callumsvad.nl/) to see some projects I have been working on!
 - 👀 I’m interested in frontend development, Formula 1, soccer and gaming
 - 🌱 I’m currently learning Typescript & Angular
 
